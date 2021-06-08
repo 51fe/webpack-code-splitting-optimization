@@ -1,4 +1,4 @@
-# code-split
+# Webpack code splitting optimization
 
 ## Before optimization:
 ![Snapshot](https://github.com/51fe/webpack-code-splitting-optimization/blob/master/before.png?raw=true)
