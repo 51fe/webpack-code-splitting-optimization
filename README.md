@@ -1,7 +1,10 @@
 # code-split
 
 ## Before optimization:
-![Snapshot](https://github.com/51fe/vue-cuisine/blob/master/before.png?raw=true)
+![Snapshot](https://github.com/51fe/webpack-code-splitting-optimization/blob/master/before.png?raw=true)
+
+## After optimization:
+![Snapshot](https://github.com/51fe/webpack-code-splitting-optimization/blob/master/after.png?raw=true)
 
 ## Project setup
 ```
